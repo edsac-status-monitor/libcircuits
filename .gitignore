@@ -1,0 +1,10 @@
+*.a
+*.o
+aclocal.m4
+*.cache
+build-aux
+configure
+m4/*
+include/config.h
+include/config.h.in
+Makefile.in

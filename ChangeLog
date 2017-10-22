@@ -1,0 +1,5 @@
+Eddie Ellams - 22/10/2017
+Initial commit
+- Added code and tests for dynamic arrays, and basic .asc file parsing
+- Can load WIRE types from .asc files
+

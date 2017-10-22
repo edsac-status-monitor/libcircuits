@@ -1,0 +1,19 @@
+# libnetworking
+Parses ltspice .asc files, used for visual representation of circuit nets.
+
+Compile using
+```
+autoreconf -i
+./configure
+make
+```
+
+Run unit tests using
+```
+make check
+```
+
+Clean up using
+```
+make distclean
+```
